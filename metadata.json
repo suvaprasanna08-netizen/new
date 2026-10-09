@@ -1,0 +1,6 @@
+{
+  "name": "A Little Universe for Vasilisa",
+  "description": "An interactive, cinematic birthday universe celebrating Vasilisa on October 13 with an enchanted garden, birthday cake, gift room, heartfelt letter, and grand finale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
